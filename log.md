@@ -16,3 +16,11 @@
 **Thoughts:** Need to standardize the graph and automate more of the mixing.
 
 **Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
+### Day 2: January 6, 2017
+
+**Today's Progress**: added some code for simplifying creating lyrics and raps. Now reading graphs from json file so that learned things can be persistent.
+
+**Thoughts:** Need to add a way to combine multiple graphs.
+
+**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
