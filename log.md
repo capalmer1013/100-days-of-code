@@ -24,3 +24,11 @@
 **Thoughts:** Need to add a way to combine multiple graphs.
 
 **Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
+### Day 3: January 7, 2017
+
+**Today's Progress**: automated mixing tracks, improved the vocals by adding 4 seconds of silence to the begining.
+
+**Thoughts:** need to break the spoken vocals into files of lines, then time when they are added by the tempo of the drum track.
+
+**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
