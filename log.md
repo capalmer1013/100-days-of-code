@@ -32,3 +32,11 @@
 **Thoughts:** need to break the spoken vocals into files of lines, then time when they are added by the tempo of the drum track.
 
 **Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
+### Day 4: January 8, 2017
+
+**Today's Progress**: started adding some code for automating the basslines
+
+**Thoughts:**need to plan this out and get a high level view of this.
+
+**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
