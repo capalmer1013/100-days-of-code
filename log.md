@@ -44,4 +44,4 @@
 
 **Thoughts:**
 
-**Link to work:** My github.io page [My Page](http://www.capalmer1013.github.io)
+**Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
