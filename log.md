@@ -6,8 +6,6 @@
 
 **Thoughts:** Need to look more into automating gimp or figure out how to do all the important filters with a python module PIL or PILlow
 
-**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
-
 
 ### Day 1: January 5, 2017
 
@@ -15,7 +13,7 @@
 
 **Thoughts:** Need to standardize the graph and automate more of the mixing.
 
-**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
 
 ### Day 2: January 6, 2017
 
@@ -23,7 +21,7 @@
 
 **Thoughts:** Need to add a way to combine multiple graphs.
 
-**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
 
 ### Day 3: January 7, 2017
 
@@ -31,7 +29,7 @@
 
 **Thoughts:** need to break the spoken vocals into files of lines, then time when they are added by the tempo of the drum track.
 
-**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
 
 ### Day 4: January 8, 2017
 
@@ -39,4 +37,11 @@
 
 **Thoughts:**need to plan this out and get a high level view of this.
 
-**Link to work:** Not gonna use this on private projects. [Calculator App](http://www.example.com)
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: plan on doing a first pass at my github.io page
+
+**Thoughts:**
+
+**Link to work:** My github.io page [My Page](http://www.capalmer1013.github.io)
