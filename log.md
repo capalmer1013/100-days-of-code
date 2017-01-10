@@ -38,10 +38,10 @@
 **Thoughts:**need to plan this out and get a high level view of this.
 
 
-### Day 5: January 8, 2017
+### Day 5: January 9, 2017
 
-**Today's Progress**: plan on doing a first pass at my github.io page
+**Today's Progress**: Did a first pass on my github.io page. Just put my resume on the about page.
 
-**Thoughts:**
+**Thoughts:** I want to have a page that is kinda like a blog where I just post links to things I'm interested in and probably ramble about stuff.
 
 **Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
