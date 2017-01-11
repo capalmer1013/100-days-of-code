@@ -45,3 +45,12 @@
 **Thoughts:** I want to have a page that is kinda like a blog where I just post links to things I'm interested in and probably ramble about stuff.
 
 **Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
+
+
+### Day 6: January 10, 2017
+
+**Today's Progress**: Added a blog page to the github io page. total bullcrap just copied a bunch of links.
+
+**Thoughts:** It gave me a lot of ideas about how to handle this website thing. ultimately I want to write a script to generate each of the pages and update the menu bar so that the the correct pages show up.
+
+**Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
