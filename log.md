@@ -55,10 +55,18 @@
 
 **Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
 
-### Day 7: January 10, 2017
+### Day 7: January 11, 2017
 
 **Today's Progress**: added a file to generate the blog file so that I don't have to write it by hand.
 
 **Thoughts:** need to figure out how to generate this. if it is by some other file then it should probably have an associated state machine. or just interpret a json page or yaml.
+
+**Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
+
+### Day 8: January 12, 2017
+
+**Today's Progress**: Wrote a bunch of broken code to generate html.
+
+**Thoughts:** using yaml files is dope. I just wrote it poorly.
 
 **Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
