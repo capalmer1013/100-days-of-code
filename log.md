@@ -70,3 +70,11 @@
 **Thoughts:** using yaml files is dope. I just wrote it poorly.
 
 **Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
+
+### Day 9: January 13, 2017
+
+**Today's Progress**: Fixed the broken code from yesterday.
+
+**Thoughts:** need to make it more flexible to generate multiple pages.
+
+**Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
