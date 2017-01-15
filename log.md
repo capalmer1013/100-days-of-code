@@ -78,3 +78,11 @@
 **Thoughts:** need to make it more flexible to generate multiple pages.
 
 **Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
+### Day 10: January 14, 2017
+
+**Today's Progress**: added some stuff to the generated code to try out some time
+
+**Thoughts:** If this doesn't work then I need it to recurse into posts.
+
+**Link to work:** My github.io page [My Page](http://capalmer1013.github.io)
+
